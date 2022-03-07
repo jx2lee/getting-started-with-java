@@ -1,0 +1,7 @@
+# Folder
+.idea
+.gradle
+build
+
+# File
+.DS_Store
